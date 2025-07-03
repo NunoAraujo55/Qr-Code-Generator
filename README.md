@@ -10,7 +10,7 @@ A simple Python command-line tool that generates QR codes from any text or URL. 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Example](#example)
+
 
 
 ---
