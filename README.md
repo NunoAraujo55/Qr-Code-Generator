@@ -11,8 +11,7 @@ A simple Python command-line tool that generates QR codes from any text or URL. 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example](#example)
-- [.gitignore](#gitignore)
-- [License](#license)
+
 
 ---
 
